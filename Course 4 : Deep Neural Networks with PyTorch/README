@@ -1,0 +1,7 @@
+This is the fourth course in the IBM AI Engineering Professional Certificate.
+
+The course starts with Pytorch's  tensors and Automatic differentiation package. 
+Then each section covers different models starting off with fundamentals such as Linear Regression, and logistic/softmax regression. 
+Followed by Feedforward deep neural networks, the role of different activation functions, normalization and dropout layers. 
+Then Convolutional Neural Networks and Transfer learning is covered. 
+Finally, several other Deep learning methods is covered.
